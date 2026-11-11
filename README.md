@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Josh Regian
 
-<!--
-**joshregian18/joshregian18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HRIS Consultant and Master of Information Technology student, working with employee data and data analysis.
 
-Here are some ideas to get you started:
+## What I do
+- Implement HRIS and configure payroll for enterprise clients in Indonesia
+- Manage and clean employee data, and retrieve information from databases using SQL
+- Test systems and run QA so configurations meet business requirements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+SQL Server (SSMS) · Python · Tableau · Figma · Microsoft Office · Google Workspace
+
+## Education
+- Magister Teknologi Informasi, Universitas Bunda Mulia (2026 – 2027, expected)
+- S1 Information System, Bunda Mulia University (GPA 3.91 / 4.00)
+
+## Certification
+Certified International Specialist in Data Visualization (CISDV)
+
+## Portfolio
+https://joshregian18.github.io
